@@ -5,7 +5,7 @@
 - 加：`(a+bi)+(c+di)=(a+c)+(b+d)i​`
 - 减：`(a+bi)-(c+di)=(a-c)+(b-d)i​`
 - 乘：`(a+bi)*(c+di)=(ac-bd)+(ad+bc)i​`
-- 除：`(a+bi)/(c+di)=((ac+bd)+(bc-ad)i)/(c2+d^2)`，其中整数除法为 int 除法
+- 除：`(a+bi)/(c+di)=((ac+bd)+(bc-ad)i)/(c^2+d^2)`，其中整数除法为 int 除法
 
 运行代码的方式：
 
