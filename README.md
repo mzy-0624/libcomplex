@@ -5,7 +5,11 @@
 - 加：`(a+bi)+(c+di)=(a+c)+(b+d)i​`
 - 减：`(a+bi)-(c+di)=(a-c)+(b-d)i​`
 - 乘：`(a+bi)*(c+di)=(ac-bd)+(ad+bc)i​`
+<<<<<<< HEAD
 - 除：`(a+bi)/(c+di)=((ac+bd)+(bc-ad)i)/(c^2^+d^2^)`，其中整数除法为 int 除法
+=======
+- 除：`(a+bi)/(c+di)=((ac+bd)+(bc-ad)i)/(c^2+d^2)`，其中整数除法为 int 除法
+>>>>>>> f990f3fee3daec0ccbe0c0c3b2c3e912bee75841
 
 运行代码的方式：
 
@@ -19,4 +23,8 @@ make run
 
 等价于：`(-12+4i)+(4-12i)`，会输出 `-8-8i`
 
+<<<<<<< HEAD
 输入 `q` 退出。
+=======
+输入 `q` 退出。
+>>>>>>> f990f3fee3daec0ccbe0c0c3b2c3e912bee75841
